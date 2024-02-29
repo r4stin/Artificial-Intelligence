@@ -1,2 +1,2 @@
-# Artificial-Intelligence
-Zero Hunger - @UNIPD
+# Artificial-Intelligence @UNIPD
+Sustainable Development Goal 2: Zero Hunger
